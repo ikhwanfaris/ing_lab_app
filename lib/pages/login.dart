@@ -69,12 +69,12 @@ class _LoginPageState extends State<LoginPage> {
               mainAxisAlignment: MainAxisAlignment.center,
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                CustomWidget(
-                  title: "Prospect by Status",
-                  innerTitle: "Total Prospects",
-                  mapData: dataMap,
-                  listColor: colorList,
-                ),
+                // CustomWidget(
+                //   title: "Prospect by Status",
+                //   innerTitle: "Total Prospects",
+                //   mapData: dataMap,
+                //   listColor: colorList,
+                // ),
                 Padding(
                   padding: const EdgeInsets.all(8.0),
                   child: Center(
